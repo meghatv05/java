@@ -7,9 +7,6 @@
   <name>WAR Web Project</name>
   <description>A very simple Maven-enabled WAR web project</description>
   <dependencies>
-    
-    <!-- Demo on Github Webhooks-->
-    
   	<dependency>
   		<groupId>com.google.code.gson</groupId>
   		<artifactId>gson</artifactId>
