@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   <name>WAR Web Project</name>
   
-  <dummy>
+  <dummy1>
   
   <description>A very simple Maven-enabled WAR web project</description>
   <dependencies>
